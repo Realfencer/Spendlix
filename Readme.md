@@ -141,7 +141,7 @@ server/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/sahilmd01/spendlix.git
+git clone https://github.com/Realfencer/spendlix.git
 cd spendlix
 ````
 
@@ -202,5 +202,5 @@ npm start
 
 ## 📝 License
 
-MIT © [SAHIL](https://github.com/sahilmd01)
+MIT © [SLIGER](https://github.com/Realfencer)
 
